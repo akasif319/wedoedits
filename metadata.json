@@ -1,0 +1,6 @@
+{
+  "name": "CapCut Pro",
+  "description": "A comprehensive replica of CapCut featuring multi-track timeline editing, professional inspector tools, audio effects, and native background rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
